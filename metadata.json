@@ -1,0 +1,5 @@
+{
+  "name": "FlyCheap - Airline Price Monitor",
+  "description": "A smart flight price monitoring tool for Latam, Gol, and Azul. Track routes and get notified when prices hit your target.",
+  "requestFramePermissions": []
+}
