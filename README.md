@@ -1,3 +1,5 @@
+An App that monitor the price of flights in the principal airline brazilian companies.
+
 **Prerequisites:**  Node.js
 
 
